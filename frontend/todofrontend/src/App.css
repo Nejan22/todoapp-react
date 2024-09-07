@@ -1,0 +1,26 @@
+.main-heading{
+    font-family: "Quicksand", system-ui;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-size: 35px;
+    font-style: normal;    
+    color:#DDE6ED;
+}
+.add-task-button-area{
+    position: absolute;
+    right: 10px; 
+    bottom: 10px; 
+    padding: 10px 20px;
+}
+.newtaskcard-element{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: none;
+}
+.insidenewtaskcard{
+    background-color: #9DB2BF;
+    border-radius: 4px;
+}
+.updatetaskcard{
+    display: none;
+}
